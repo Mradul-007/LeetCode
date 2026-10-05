@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mradul-007/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mradul-007/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mradul-007/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mradul-007/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mradul-007/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mradul-007/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
